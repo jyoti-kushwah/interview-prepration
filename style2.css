@@ -1,0 +1,20 @@
+input:focus{
+     border: 5px solid tomato;
+     box-shadow: 5px 5px 5px 5px rgb(248, 158, 248);
+     width: 500px;
+     height: 100px;
+     border-radius: 30px;
+     color: aqua;
+}
+p{
+    /* text-shadow: 5px 5px 5px salmon; */
+    color: aqua;
+    font-size: larger;
+
+}
+p:active{
+   color: blueviolet;
+}
+a:active{
+    color: blue;
+}
